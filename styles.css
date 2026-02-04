@@ -81,3 +81,13 @@ p {
   font-size: 2.4em;
   font-weight: 700;
 }
+
+/* Utility for right alignment */
+.right {
+  justify-content: flex-end;
+}
+
+/* Add borders to paragraphs in daily-value unless they have the no-divider class */
+.daily-value p:not(.no-divider) {
+  border-bottom: 1px solid #888989;
+}
