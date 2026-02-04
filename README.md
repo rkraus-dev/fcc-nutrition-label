@@ -1,7 +1,6 @@
-# 🌐 FCC Nutritional Label - ![Status](https://img.shields.io/badge/in%20progress-yellow)
+# 🌐 FCC Nutritional Label - ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 This project is a detailed replica of a Nutrition Facts label, created as part of the FreeCodeCamp Responsive Web Design curriculum. The primary focus was on mastering CSS Typography and the Box Model to achieve a professional, standardized print-like layout purely with HTML and CSS.
-
 
 ## 🛠 Technologies
 * **HTML5:** Basic semantic structure for labeling food data.
@@ -28,6 +27,5 @@ This project is a detailed replica of a Nutrition Facts label, created as part o
 
 ## 🖼 Preview
 *This section is currently a work in progress and will be expanded as the project moves forward.*
-
 ### Quick Links
-[Live Demo](https://rkraus-dev.github.io/fcc-playing-card/) *(Coming Soon)*
+[Live Demo](https://rkraus-dev.github.io/fcc-nutronal-label/) *(Coming Soon)*
