@@ -95,3 +95,8 @@ p {
 .indent {
   margin-left: 1em;
 }
+
+/* Deep indentation for added sugars */
+.double-indent {
+  margin-left: 2em;
+}
