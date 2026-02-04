@@ -82,7 +82,7 @@ p {
   font-weight: 700;
 }
 
-/* Step 8 Utilities: Alignment and row borders */
+/* Utilities: Alignment and row borders */
 .right {
   justify-content: flex-end;
 }
@@ -91,12 +91,19 @@ p {
   border-bottom: 1px solid #888989;
 }
 
-/* Specific indentation for sub-nutrients */
+/* Indentation levels */
 .indent {
   margin-left: 1em;
 }
 
-/* Deep indentation for added sugars */
 .double-indent {
   margin-left: 2em;
+}
+
+/* Final footer note styling */
+.note {
+  font-size: 0.6rem;
+  margin: 5px 0;
+  padding: 0 8px;
+  text-indent: -8px;
 }
