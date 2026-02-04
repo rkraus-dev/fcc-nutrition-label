@@ -26,6 +26,7 @@ This project is a detailed replica of a Nutrition Facts label, created as part o
 2. Open `index.html` in your browser.
 
 ## 🖼 Preview
-*This section is currently a work in progress and will be expanded as the project moves forward.*
+![Nutrition Label Preview](./preview.png)
+
 ### Quick Links
 [Live Demo](https://rkraus-dev.github.io/fcc-nutronal-label/) *(Coming Soon)*
