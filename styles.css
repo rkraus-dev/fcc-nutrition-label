@@ -82,12 +82,11 @@ p {
   font-weight: 700;
 }
 
-/* Utility for right alignment */
+/* Step 8 Utilities: Alignment and row borders */
 .right {
   justify-content: flex-end;
 }
 
-/* Add borders to paragraphs in daily-value unless they have the no-divider class */
 .daily-value p:not(.no-divider) {
   border-bottom: 1px solid #888989;
 }
