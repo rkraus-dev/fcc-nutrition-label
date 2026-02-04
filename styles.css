@@ -35,3 +35,22 @@ p {
 .bold {
   font-weight: 800;
 }
+
+/* Divider lines with different thicknesses */
+.divider {
+  border-bottom: 1px solid #888989;
+  margin: 2px 0;
+}
+
+.large, .medium {
+  background-color: black;
+  border: 0;
+}
+
+.large {
+  height: 10px;
+}
+
+.medium {
+  height: 5px;
+}
